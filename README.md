@@ -6,13 +6,15 @@ A command-line implementation of Tic-Tac-Toe built in Python. The application us
 * **Input Validation:** Handles out-of-bounds numbers, invalid inputs, and occupied cell attempts gracefully.
 ## Project Structure
 
-'''text
+```text
 ai-tic-tac-toe-game/
 └──⁠ src/
      ⁠├── ai.py
      ⁠├── board.py
      ⁠├── game.py
-     ⁠├── player.py⁠
+     ⁠├── player.py
+     README.md
+```⁠
 
 ⁠
 
