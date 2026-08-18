@@ -9,15 +9,15 @@ A command-line implementation of Tic-Tac-Toe built in Python. The application us
 ```text
 ai-tic-tac-toe-game/
 └──⁠ src/
-    ├── ai.py
-    ├── board.py
-    ├── game.py
-   ├── player.py
+    ├── ai.py         # AI decision-making (Minimaxalgorithm)
+    ├── board.py      # Board representation, state tracking, and win checking
+    ├── game.py       # Main entry point and game loopcontrol
+   ├── player.py      #Human player input handling and validation
 └──⁠  README.md
 ```
 ## How the AI Works
 The AI relies on the Minimax algorithm to simulate all possible moves recursively down to terminal states (win, loss, or draw).
-1.  Maximizing Player (AI):
+1  **Maximizing Player (AI):
 
 ⁠
 
