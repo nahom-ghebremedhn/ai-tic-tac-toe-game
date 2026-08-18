@@ -17,7 +17,7 @@ ai-tic-tac-toe-game/
 ```
 ## How the AI Works
 The AI relies on the Minimax algorithm to simulate all possible moves recursively down to terminal states (win, loss, or draw).
-1  **Maximizing Player (AI):
+1.  **Maximizing Player (AI):
 
 ⁠
 
