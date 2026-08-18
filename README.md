@@ -13,7 +13,7 @@ ai-tic-tac-toe-game/
 │    ├── board.py
 │    ├── game.py
 |    ├── player.py
-     README.md
+└──⁠  README.md
 ```⁠
 
 ⁠
