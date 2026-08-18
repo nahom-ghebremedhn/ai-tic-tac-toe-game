@@ -9,10 +9,10 @@ A command-line implementation of Tic-Tac-Toe built in Python. The application us
 ```text
 ai-tic-tac-toe-game/
 └──⁠ src/
-     ⁠├── ai.py
-     ⁠├── board.py
-     ⁠├── game.py
-     ⁠├── player.py
+│    ├── ai.py
+│    ├── board.py
+│    ├── game.py
+|    ├── player.py
      README.md
 ```⁠
 
